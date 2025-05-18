@@ -41,11 +41,11 @@ I'm a Senior Software Engineer at Atomo Innovations Pvt Ltd, where I lead the de
 
 | Status | Project | Description |
 | --- | --- | --- |
-| <img alt="GitHub Workflow Status" src=""> | [`PCOS Prediction System`](https://github.com/anmoljpp/) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
-| <img alt="GitHub Workflow Status" src=""> | [`Local IoT Platform`](https://github.com/anmoljpp/) | Real-time IoT data collection system for 100+ devices using Python and Raspberry Pi. |
-| <img alt="GitHub Workflow Status" src=""> | [`Plant Disease Prediction`](https://github.com/anmoljpp/) | AI model with 85% accuracy for plant disease detection using Python and OpenCV. |
-| <img alt="GitHub Workflow Status" src=""> | [`Focus-Based Music Player`](https://github.com/anmoljpp/) | Adaptive music player using brainwave data, built with Python. |
-| <img alt="GitHub Workflow Status" src=""> | [`Smart Home UI`](https://github.com/anmoljpp/smart-home-ui) | Responsive Svelte-based interface for smart home systems, integrated with IoT APIs. |
+| Completed | [`PCOS Prediction System`](https://github.com/anmoljpp/) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
+| Completed | [`Local IoT Platform`](https://github.com/anmoljpp/) | Real-time IoT data collection system for 100+ devices using Python and Raspberry Pi. |
+| On Testing | [`Plant Disease Prediction`](https://github.com/anmoljpp/) | AI model with 85% accuracy for plant disease detection using Python and OpenCV. |
+| on Testing | [`Focus-Based Music Player`](https://github.com/anmoljpp/) | Adaptive music player using brainwave data, built with Python. |
+| in Development | [`Smart Home UI`](https://github.com/anmoljpp/smart-home-ui) | Responsive Svelte-based interface for smart home systems, integrated with IoT APIs. |
 
 ## Experience
 
