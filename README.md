@@ -41,11 +41,11 @@ I'm a Senior Software Engineer at Atomo Innovations Pvt Ltd, where I lead the de
 
 | Status | Project | Description |
 | --- | --- | --- |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmoljpp/PCOS-and-Period-Prediction/ci.yml?branch=main"> | [`PCOS Prediction System`](https://github.com/anmoljpp/PCOS-and-Period-Prediction) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/local-iot-platform/ci.yml?branch=main"> | [`Local IoT Platform`](https://github.com/anmolsharma/local-iot-platform) | Real-time IoT data collection system for 100+ devices using Python and Raspberry Pi. |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/plant-disease-prediction/ci.yml?branch=main"> | [`Plant Disease Prediction`](https://github.com/anmolsharma/plant-disease-prediction) | AI model with 85% accuracy for plant disease detection using Python and OpenCV. |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/focus-music-player/ci.yml?branch=main"> | [`Focus-Based Music Player`](https://github.com/anmolsharma/focus-music-player) | Adaptive music player using brainwave data, built with Python. |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/smart-home-ui/ci.yml?branch=main"> | [`Smart Home UI`](https://github.com/anmolsharma/smart-home-ui) | Responsive Svelte-based interface for smart home systems, integrated with IoT APIs. |
+| <img alt="GitHub Workflow Status" src=""> | [`PCOS Prediction System`](https://github.com/anmoljpp/) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
+| <img alt="GitHub Workflow Status" src=""> | [`Local IoT Platform`](https://github.com/anmoljpp/) | Real-time IoT data collection system for 100+ devices using Python and Raspberry Pi. |
+| <img alt="GitHub Workflow Status" src=""> | [`Plant Disease Prediction`](https://github.com/anmoljpp/) | AI model with 85% accuracy for plant disease detection using Python and OpenCV. |
+| <img alt="GitHub Workflow Status" src=""> | [`Focus-Based Music Player`](https://github.com/anmoljpp/) | Adaptive music player using brainwave data, built with Python. |
+| <img alt="GitHub Workflow Status" src=""> | [`Smart Home UI`](https://github.com/anmoljpp/smart-home-ui) | Responsive Svelte-based interface for smart home systems, integrated with IoT APIs. |
 
 ## Experience
 
