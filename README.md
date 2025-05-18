@@ -41,7 +41,7 @@ I'm a Senior Software Engineer at Atomo Innovations Pvt Ltd, where I lead the de
 
 | Status | Project | Description |
 | --- | --- | --- |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/pcos-prediction/ci.yml?branch=main"> | [`PCOS Prediction System`](https://github.com/anmolsharma/pcos-prediction) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/pcos-prediction/ci.yml?branch=main"> | [`PCOS Prediction System`](https://github.com/anmoljpp/PCOS-and-Period-Prediction) | A Django web app using machine learning to predict PCOS with 90% accuracy. |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/local-iot-platform/ci.yml?branch=main"> | [`Local IoT Platform`](https://github.com/anmolsharma/local-iot-platform) | Real-time IoT data collection system for 100+ devices using Python and Raspberry Pi. |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/plant-disease-prediction/ci.yml?branch=main"> | [`Plant Disease Prediction`](https://github.com/anmolsharma/plant-disease-prediction) | AI model with 85% accuracy for plant disease detection using Python and OpenCV. |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/anmolsharma/focus-music-player/ci.yml?branch=main"> | [`Focus-Based Music Player`](https://github.com/anmolsharma/focus-music-player) | Adaptive music player using brainwave data, built with Python. |
