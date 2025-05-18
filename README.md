@@ -64,12 +64,12 @@ I'm a Senior Software Engineer at Atomo Innovations Pvt Ltd, where I lead the de
 
 ## Want to Collaborate?
 
-Check out my [`open issues`](https://github.com/issues?q=user%3Aanmolsharma+is%3Aopen+sort%3Aupdated-desc) or reach out to contribute to my projects!
+Let Connect, Mail at anmolnelson@gmail.com  
 
 ## Quick Links
 
-[`All Repositories`](https://github.com/anmolsharma?tab=repositories) [`All Discussions`](https://github.com/discussions?discussions_q=user%3aanmolsharma+sort%3Aupdated-desc)
+[`All Repositories`](https://github.com/anmoljpp?tab=repositories) [`All Discussions`](https://github.com/discussions?discussions_q=user%3aanmoljpp+sort%3Aupdated-desc)
 
 ---
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=GitHub)](https://github.com/sponsors/anmolsharma)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=GitHub)](https://github.com/sponsors/anmoljpp)
